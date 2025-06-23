@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041B\u0456\u0442\u043D\u044F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab2\\ConsoleApplication1\\",
+  "WorkspaceRootPath": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041B\u0456\u0442\u043D\u044F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab2 visual c\u002B\u002B\\ConsoleApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7AF7394A-2DB1-4696-9A89-743F81C80DAD}|ConsoleApplication1.vcxproj|D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041B\u0456\u0442\u043D\u044F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab2\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7AF7394A-2DB1-4696-9A89-743F81C80DAD}|ConsoleApplication1.vcxproj|D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041B\u0456\u0442\u043D\u044F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab2 visual c\u002B\u002B\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7AF7394A-2DB1-4696-9A89-743F81C80DAD}|ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ConsoleApplication1.cpp",
-              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041B\u0456\u0442\u043D\u044F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab2\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041B\u0456\u0442\u043D\u044F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab2 visual c\u002B\u002B\\ConsoleApplication1\\ConsoleApplication1.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication1.cpp",
-              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041B\u0456\u0442\u043D\u044F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab2\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\\u041B\u0456\u0442\u043D\u044F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab2 visual c\u002B\u002B\\ConsoleApplication1\\ConsoleApplication1.cpp",
               "RelativeToolTip": "ConsoleApplication1.cpp",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAAwHEAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAIwKQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-18T17:52:37.832Z",
               "EditorCaption": ""
